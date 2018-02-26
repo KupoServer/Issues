@@ -16,6 +16,10 @@ Please do not remove or change any of the template data below. Instead, simply f
 
 **Position (use `!where` in game):** 
 
+**Client Version (use `/ver` in game):** 
+
+**Are you using Ashita or Windower? (If so say which one.):** 
+
 **Were you multiboxing/dualboxing?:** 
 
 **Steps to reproduce the issue:** 
