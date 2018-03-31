@@ -4,6 +4,12 @@ Welcome to the Kupo server issue tracker. This is where we manage any bugs/issue
 
 **Please note:** Because we are partially version locked, bugs should **NOT** be submitted to DarkStars official tracker. Bugs reported from this server will be ignored as we are considered old/outdated.
 
+## Lost Item Reports
+
+In the event that you lose an item due to auto-sorting treasure pool bugs with DarkStar, you **MUST** provide a screenshot as proof the item was lost. The screenshot must show the line that the item was lost / did not meet the requirements, and you must also have `/clock` in the screenshot to provide proof of the date.
+
+I will not restore items that are lost due to your own mistakes such as zoning before lotting, forgetting to lot on an item before its auto-sorted, etc. This is strictly for restoring items that are lost due to bugs.
+
 ## Exploit Reports
 
 If you have found an exploit or other major bug that can result in unfair advantages or similar, please **DO NOT** report them here. 
